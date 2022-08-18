@@ -5,11 +5,11 @@ tagline:
 actionText: Quick Start →
 actionLink: /technology/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Aprendizaje continuo
+  details: Estudiar al menos una hora al día es realmente confiable
+- title: Aprende mientras memorizas
+  details: Tome notas durante el proceso de aprendizaje para evitar el olvido
+- title: Base de conocimientos
+  details: Acumule más, conecte el conocimiento en serie, fácil de leer
 footer: 
 ---
